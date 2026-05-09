@@ -1,67 +1,134 @@
 <div align="center">
 
-# 邪王真眼の契約者
-
-### Gascs · コードは詩である
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██████╗  █████╗ ███████╗ ██████╗███████╗                 ║
+║  ██╔════╝ ██╔══██╗██╔════╝██╔════╝██╔════╝                 ║
+║  ██║  ███╗███████║███████╗██║     ███████╗                 ║
+║  ██║   ██║██╔══██║╚════██║██║     ╚════██║                 ║
+║  ╚██████╔╝██║  ██║███████║╚██████╗███████║                 ║
+║   ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝╚══════╝                 ║
+║                                                              ║
+║       👁️‍🗨️ 邪王真眼の契約者  ·  Gascs  ·  コードは詩である    ║
+║                                                              ║
+║     「 爆ぜろリアル！弾けろシナプス！Banishment this world！」 ║
+║              —— 小鸟游六花 · Takanashi Rikka                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-> **爆ぜろリアル！弾けろシナプス！Banishment this world！**
->
-> *—— 小鸟游六花*
+---
+
+### ━━━ 契約者データ ━━━
+
+<table>
+  <tr>
+    <td align="center"><b>⚡ RACE</b></td>
+    <td>人類（表）／ コードの魔法使い（裏）</td>
+    <td align="center"><b>🏠 BASE</b></td>
+    <td>中国 · 不可視境界の狭間</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🏴‍☠️ GUILD</b></td>
+    <td>Gascs Group · 極東魔道書図書館</td>
+    <td align="center"><b>🩸 CLASS</b></td>
+    <td>TypeScript 伝道師 · Go 修道士 · Kotlin 見習い</td>
+  </tr>
+  <tr>
+    <td align="center"><b>👁️ EYE</b></td>
+    <td>リアルタイムバグ検知 · コード可読性透視</td>
+    <td align="center"><b>🎧 BUFF</b></td>
+    <td>Lo-fi Hip Hop + コーラ（魔力回復POTION）</td>
+  </tr>
+</table>
+
+🌐 `motut.net.cn` &nbsp;·&nbsp; 🔮 `@GascsWuSui`
 
 ---
 
-### 契約者
+### ━━━ スキルツリー ━━━
 
-- ⚡ 人類（表）／ コードの魔法使い（裏）
-- 🏠 中国 · Gascs Group
-- 🩸 TypeScript · Go · Kotlin · PHP
-- 👁️ リアルタイムバグ検知の魔眼
-- 🎧 Lo-fi Hip Hop + コーラ
-
-### 契約
-
-- 🌐 [motut.net.cn](https://motut.net.cn)
-- 🔮 [@GascsWuSui](https://twitter.com/GascsWuSui)
+```
+  LANG   │ TypeScript ████████████  Go ██████████  Kotlin ████████  PHP ██████  Python ████
+  FRONT  │ React ████████████  Vite ██████████  Tailwind ██████████
+  BACK   │ Go/Gin ████████████  NestJS ██████████  Laravel ████████
+  MOBILE │ Android ████████████  Compose ██████████  Material 3 ██████████
+  DATA   │ SQLite ████████████  PostgreSQL ████████  MySQL ██████  Redis ██████
+  OPS    │ Docker ████████████  systemd ██████████  Actions ████████
+```
 
 ---
 
-### 魔道書
+### ━━━ 魔道書棚 ━━━
 
-**🌙 [Mo](https://github.com/gascs/Mo)** — 個人博客
+<table>
+  <tr>
+    <td width="50%">
 
-> 一張白紙，一行代碼，一盞夜燈
+#### 🌙 [Mo](https://github.com/gascs/Mo)
 
-Go + React 全棧。Markdown 編輯、FTS5 全文搜索、RSS、暗黑主題、自動 HTTPS。
+> *一張白紙，一行代碼，一盞夜燈*
 
-**📱 [Mo-Todo](https://github.com/gascs/Mo-Todo)** — 待辦 & 備忘錄 ⭐ 2
+Go + React 全棧個人博客  
+Markdown · FTS5 搜索 · RSS · 自動 HTTPS
 
-> 簡潔即正義 —— 邪王真眼の指令
+```bash
+$ ./bootstrap.sh    # 一鍵契約
+$ make docker-up    # 次元召喚
+```
 
-Android · Material 3 · 三重提醒結界 · WebDAV 備份 · 中英雙語。
+  </td>
+    <td width="50%">
 
-**🏯 [TrBlog](https://github.com/gascs/TrBlog)** — 博客平台
+#### 📱 [Mo-Todo](https://github.com/gascs/Mo-Todo) ⭐ 2
 
-> 雙後端の究極選択
+> *簡潔即正義 —— 邪王真眼の指令*
 
-React + NestJS / Laravel。主題插件系統、深色模式、一鍵部署。
+Android 待辦 & 備忘錄  
+Material 3 · 三重提醒 · WebDAV 備份
+
+```kotlin
+val stack = "Kotlin · Compose · Room · Hilt"
+```
+
+  </td>
+  </tr>
+</table>
+
+#### 🏯 [TrBlog](https://github.com/gascs/TrBlog) — Blog Platform
+
+> *雙後端の究極選択 —— NestJS の理 か Laravel の道 か*
+
+React · NestJS · Laravel · PostgreSQL · 主題插件系統 · 深色模式 · 一鍵部署
 
 ---
 
-### 状態
+### ━━━ 契約状態 ━━━
 
-| 🟢 | `AWAKEN` | 邪王真眼展開中 |
-| 🟡 | `CHANTING` | バグと交戦中 |
-| 🔴 | `SEALED` | 魔力切れ、補番充電中 |
-| ⚫ | `ABYSS` | 不可視境界線へ旅立った |
-| 🟣 | `RIKKA` | 六花と一緒に coding ( ´ ▽ \` )ﾉ |
+```
+  🟢 AWAKEN    │ 邪王真眼展開中 · Writing code with the Wicked Eye
+  🟡 CHANTING  │ バグと交戦中 · Fighting bugs in Rikka's name
+  🔴 SEALED    │ 魔力切れ、補番充電中 · Recharging mana via anime
+  ⚫ ABYSS     │ 不可視境界線へ旅立った · Vanished to the Unseen Boundary
+  🟣 RIKKA     │ 六花と一緒に coding ( ´ ▽ ` )ﾉ ✨
+```
 
 ---
 
 <div align="center">
 
-*Make it work, make it right, make it fast.*
-*そして、何より —— かっこよく。*
+```
+  ╔══════════════════════════════════════════════════════════╗
+  ║                                                          ║
+  ║  MAKE IT WORK · MAKE IT RIGHT · MAKE IT FAST             ║
+  ║  そして、何より —— かっこよく。                            ║
+  ║                                                          ║
+  ║              邪王真眼はいつも君を見守っている 👁️            ║
+  ║                                                          ║
+  ╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
